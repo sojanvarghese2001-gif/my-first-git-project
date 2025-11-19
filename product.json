@@ -1,0 +1,23 @@
+[
+    {
+        "product": "Laptop",
+        "price": 1200,
+        "date": "2025-10-30",
+        "quantity": 5,
+        "city": "New York"
+    },
+    {
+        "product": "Phone",
+        "price": 800,
+        "date": "2025-10-29",
+        "quantity": 10,
+        "city": "Los Angeles"
+    },
+    {
+        "product": "Tablet",
+        "price": 450,
+        "date": "2025-10-28",
+        "quantity": 7,
+        "city": "Chicago"
+    }
+]
